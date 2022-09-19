@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Rodesha Shakya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in technical writing, UI content writing, developping technical content.
+- 🌱 I’m currently growing my skills in HTML, CSS, and Python.
 - 📫 How to reach me: rodesha@live.ca
 
 <!---
