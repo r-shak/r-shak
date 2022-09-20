@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Rodesha Shakya
-- 👀 I’m interested in technical writing, UI content writing, developping technical content.
+- 👀 I’m interested in technical writing, UI content writing and developping technical content.
 > Check out my Oracle repository to see some of the technical documents I authored for Oracle CX Marketing as an intern for the company.
 - 🌱 I’m currently growing my skills in HTML, CSS, and Python.
 > Check out my Twine repository to see a game I made with HTML and CSS on a site called Twine. 
